@@ -5,4 +5,5 @@ def add(a,b):
 def subtract(a,b):
        return a-b
 
-
+def maltiple(a,b):
+       return a*b
